@@ -2,7 +2,6 @@
   "dependencies": {
     "cloudinary": "^2.8.0",
     "pg": "^8.16.3",
-    "pg-pool": "^3.10.1",
-    "razorpay": "^2.9.6"
+    "pg-pool": "^3.10.1"
   }
 }
